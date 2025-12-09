@@ -1,0 +1,33 @@
+{
+  "name": "trabalhofinalppi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aglazzz/TrabalhoFinalPPI.git"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "express",
+    "http",
+    "post"
+  ],
+  "author": "manu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aglazzz/TrabalhoFinalPPI/issues"
+  },
+  "homepage": "https://github.com/aglazzz/TrabalhoFinalPPI#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.2.1",
+    "express-session": "^1.18.2"
+  }
+}
